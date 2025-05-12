@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+}
+
+.widget {
+  padding: 10px;
+  font-size: 14px;
+}
